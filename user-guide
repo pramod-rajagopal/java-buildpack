@@ -1,1 +1,7 @@
-Instrunctions for using this build pack for your cloudfoundry java application
+Instrunctions for using this build pack for your cloudfoundry java application:
+
+With CF command line tool:
+use -b https://github.com/pramod-rajagopal/java-buildpack.git with your cf push command
+
+With cf eclipe plugin:
+use https://github.com/pramod-rajagopal/java-buildpack.git as the buildpack URL when deploying the application
